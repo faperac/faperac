@@ -5,7 +5,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-I'm currently in training at **42 Nice** and passionate about cybersecurity. I'm undergoing a career transition to contribute to making the cyberspace safer. My goal is to obtain the **OSCP** certification and apply my cybersecurity skills to enhance online security. I'm actively seeking new opportunities in the field of cybersecurity.
+I'm currently in training at 42 Nice and passionate about cybersecurity. I'm undergoing a career transition to contribute to making the cyberspace safer. My goal is to obtain the OSCP certification and apply my cybersecurity skills to enhance online security. I'm actively seeking new opportunities in the field of cybersecurity.
 </p>
 
 <h3 align="left">Connect with me:</h3>
