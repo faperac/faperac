@@ -6,11 +6,11 @@ IT Developer & Cybersecurity Enthusiast
 
 I'm currently studying at 42 Nice and passionate about cybersecurity. I'm undergoing a career transition to contribute to making the cyberspace safer. My goal is to obtain the OSCP certification and apply my cybersecurity skills to enhance online security. I'm actively seeking new opportunities in the field of cybersecurity.
 
-* 🌍 I'm based in Nice
+* 🌍  I'm based in Nice
 * ✉️  You can contact me at [fabricio.pereira.acuna@gmail.com](mailto:fabricio.pereira.acuna@gmail.com)
-* 🧠 I'm learning C++ & pentesting skills
+* 🧠  I'm learning C++ & pentesting skills
 * ⚡  I'm very interested in web3.
-* 🍗 My favorite dish is roasted chiken with rice.
+* 🍗  My favorite dish is roasted chiken with rice.
 
 ### Skills
 
